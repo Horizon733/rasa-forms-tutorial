@@ -1,0 +1,7 @@
+users:
+  "me@mail.com":
+    user_email: "me@mail.com"
+    user_otp: 1234
+  "example@mail.com":
+    user_email: "example@mail.com"
+    user_otp: 7890
